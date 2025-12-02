@@ -42,5 +42,5 @@
 ## 📫 Connect with Me
 
 - 📧 Email: **wantingchen1208@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/tinawdower](https://www.linkedin.com/in/tinawdower)  
+- 💼 LinkedIn: [linkedin.com/in/tinawdower](www.linkedin.com/in/tinawdover)  
 - 🧑‍💻 GitHub: [github.com/wantingchen0852](https://github.com/wantingchen0852)
