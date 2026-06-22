@@ -21,6 +21,8 @@
 |---|---|---|---|
 | Internet of Things Security (IoTS) | National Cybersecurity Preparedness Consortium / FEMA | May 2026 | [View Certificate](iot-security-certificate.pdf) |
 
+---
+
 ## 🔥 Featured Cybersecurity Projects
 
 - [**Windows Persistence Lab**](https://github.com/wantingchen0852/windows-persistence-lab)  
