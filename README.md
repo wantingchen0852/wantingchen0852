@@ -15,6 +15,11 @@
 - **Soft Skills:** Analytical Thinking, Team Collaboration, Teaching/Training, Public Speaking  
 
 ---
+## Certifications
+
+| Certificate | Organization | Date | Proof |
+|---|---|---|---|
+| Internet of Things Security (IoTS) | National Cybersecurity Preparedness Consortium / FEMA | May 2026 | [View Certificate](certificates/iot-security-certificate.pdf) |
 
 ## 🔥 Featured Cybersecurity Projects
 
