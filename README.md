@@ -19,7 +19,7 @@
 
 | Certificate | Organization | Date | Proof |
 |---|---|---|---|
-| Internet of Things Security (IoTS) | National Cybersecurity Preparedness Consortium / FEMA | May 2026 | [View Certificate](certificates/iot-security-certificate.pdf) |
+| Internet of Things Security (IoTS) | National Cybersecurity Preparedness Consortium / FEMA | May 2026 | [View Certificate](certificates/iot-security-certificate.pdf.pdf) |
 
 ## 🔥 Featured Cybersecurity Projects
 
